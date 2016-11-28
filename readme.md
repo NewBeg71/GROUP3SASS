@@ -1,5 +1,5 @@
 # What is @extend?
-<hr>
+
 @extend is a feature of Sass that allows classes to share a set of properties
 with one another. Selectors that @extend a class in Sass will have their selector
 included right up next to the class it is extending, resulting in a comma separated
