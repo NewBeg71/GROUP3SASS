@@ -57,3 +57,5 @@ reuse our CSS when it is appropriate and cleaner to do so.
 ### Saving time and effort
 Developers can reuse CSS for various elements, reducing the effort needed to find
 the root cause of CSS issues and making their CSS structure nice and clean.
+
+[Resource:](https://www.sitepoint.com/the-benefits-of-inheritance-via-extend-in-sass/)
